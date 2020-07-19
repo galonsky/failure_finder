@@ -1,4 +1,4 @@
-# failure_finder
+# failure_finder [![circle](https://circleci.com/gh/galonsky/failure_finder.svg?style=svg)](https://circleci.com/gh/galonsky/failure_finder)
 narrows down failures in dependent test failures
 
 ## Example usage
